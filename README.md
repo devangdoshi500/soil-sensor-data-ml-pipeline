@@ -7,3 +7,4 @@ To run the pipeline, provide an Excel file containing soil sensor measurements a
 
 ## Usage
 To use the model, run the run_pipeline.py file after ensuring that all other relevant files are in the same folder as it.
+python run_pipeline.py for usage
