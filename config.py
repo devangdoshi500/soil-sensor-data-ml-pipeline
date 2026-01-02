@@ -1,6 +1,6 @@
 from pathlib import Path
 
-EXCEL_PATH = Path.home() / data/all_data.xlsx # FILE PATH FOR THE RAW DATA
+EXCEL_PATH = "data/all_data.xlsx"
 
 RAW_COLUMNS = ["Air Temp","Air Humidity","Soil Temp","Soil Moisture","EC","PhVal","N","P","K"]
 
